@@ -1,2 +1,3 @@
 # Social-Network-Analysis
-Contains projects related to social network analysis
+Contains project related to social network analysis
+Download writeup.pptx to understand the project
